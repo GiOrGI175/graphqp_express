@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "express": "^4.21.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.10.0",
+    "nodemon": "^3.1.9"
+  },
+  "name": "graphqp_express",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
